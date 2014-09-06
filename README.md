@@ -1,4 +1,4 @@
-# LGL22CameraPatcher
-LGL22のカメラアプリにシャッター音無効メニューを追加します。<br>
-20bで開発してますが10a/10bでも動くとの[報告](https://twitter.com/lindwurm/status/491737170063806466)を受けました。<br>
-[apk](https://github.com/misodengaku/LGL22CameraPatcher/blob/master/app/app.apk?raw=true)
+# HTL22CameraPatcher
+HTL22のカメラアプリのシャッター音を無効化します。<br>
+4.4.2で動作確認というか4.2まではcamera_click.oggを消せばシャッター音消せた気がするのでたぶん意味がないです。<br>
+[apk](https://github.com/misodengaku/HTL22CameraPatcher/blob/master/app/htl22camerapatcher.apk?raw=true)
